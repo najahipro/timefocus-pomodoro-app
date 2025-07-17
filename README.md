@@ -1,1 +1,2 @@
-# timefocus-pomodoro-app
+# my-pomodoro-app
+
